@@ -1,0 +1,23 @@
+name: "Tamsin's Loft"
+favicon: null
+layout_spectrum: 0.7740343229379505
+typography_spectrum: 0.7755439272150397
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5487329326570034
+  lightness: 0.012907475465908647
+  saturation: 0.9227286502718925
+  rhythmicContrast: 0.31372352014295757
+purpose: []
